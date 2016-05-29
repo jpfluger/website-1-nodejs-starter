@@ -1,0 +1,40 @@
+{
+	"name": "website101",
+	"version": "0.0.1",
+	"publishConfig" : {
+	},
+	"private": true,
+	"description": "A website primer for Node Express with Twitter Bootstrap, JQuery, lodash, numeral and moment.",
+	"author": {
+		"name": "Jaret Pfluger",
+		"email": "japes@aberlorn.com"
+	},
+	"homepage": "https://github.com/jpfluger/website101.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jpfluger/website101.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=4.3"
+	},
+	"bin": {},
+	"scripts": {
+	},
+	"main": "src/server",
+	"keywords": [
+		"express",
+		"bootstrap",
+		"website",
+		"template"
+	],
+	"dependencies": {
+		"express": "^4.13.4",
+		"body-parser": "^1.15.0",
+		"lodash": "^4.13.1",
+		"numeral": "^1.5.3",
+		"moment": "^2.13.0"
+	},
+	"devDependencies": {
+	}
+}
