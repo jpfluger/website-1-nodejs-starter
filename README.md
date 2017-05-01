@@ -1,6 +1,6 @@
 # Website 101
 
-A website primer for Node Express with Twitter Bootstrap, JQuery, lodash, numeral and moment.
+A website primer for Node Express with Twitter Bootstrap (v3.3), Bootstrap-Dialog, JQuery, lodash, numeral and moment.
 
 ## Install
 
