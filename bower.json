@@ -2,10 +2,10 @@
   "name": "website101",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.6",
-    "bootstrap-dialog": "^1.35.1",
-    "lodash": "^4.13.0",
-    "moment": "^2.13.0",
-    "numeraljs": "^1.5.3"
+    "bootstrap": "^3.3.7",
+    "bootstrap-dialog": "^1.35.4",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "numeraljs": "^2.0.6"
   }
 }

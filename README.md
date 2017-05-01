@@ -4,7 +4,7 @@ A website primer for Node Express with Twitter Bootstrap, JQuery, lodash, numera
 
 ## Install
 
-Download [NodeJS](https://nodejs.org/en/) and install the version for your operating system.
+Download [NodeJS](https://nodejs.org/en/) and install the version for your operating system. `Website 101` has been updated to use node versions greater than 6.5.
 
 Install `npm` pacakges.
 
