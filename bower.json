@@ -6,6 +6,6 @@
     "bootstrap-dialog": "^1.35.1",
     "lodash": "^4.13.0",
     "moment": "^2.13.0",
-    "numeraljs": "^1S.5.3"
+    "numeraljs": "^1.5.3"
   }
 }
