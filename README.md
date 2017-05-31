@@ -1,4 +1,4 @@
-# Website 101
+# Website 1: NodeJS Starter
 
 A website primer for Node Express with Twitter Bootstrap (v3.3), Bootstrap-Dialog, JQuery, lodash, numeral and moment.
 

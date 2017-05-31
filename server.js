@@ -39,6 +39,6 @@ app.use(function(err, req, res, next) {
 	res.sendFile(path.join(__dirname, '/views/500.html'));
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+app.listen(8080, function () {
+  console.log('Sample app listening on http://localhost:8080');
 });
