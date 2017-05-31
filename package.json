@@ -1,5 +1,5 @@
 {
-	"name": "website101",
+	"name": "website-1-nodejs-starter",
 	"version": "0.1.2",
 	"publishConfig" : {
 	},
@@ -9,10 +9,10 @@
 		"name": "Jaret Pfluger",
 		"email": "japes@aberlorn.com"
 	},
-	"homepage": "https://github.com/jpfluger/website101.git",
+	"homepage": "https://github.com/jpfluger/website-1-nodejs-starter.git",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jpfluger/website101.git"
+		"url": "https://github.com/jpfluger/website-1-nodejs-starter.git"
 	},
 	"license": "MIT",
 	"engines": {
