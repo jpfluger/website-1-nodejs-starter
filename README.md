@@ -4,7 +4,7 @@ A website primer for Node Express with Twitter Bootstrap (v3.3), Bootstrap-Dialo
 
 ## Install
 
-Download [NodeJS](https://nodejs.org/en/) and install the version for your operating system. `Website 101` has been updated to use node versions greater than 6.5.
+Download [NodeJS](https://nodejs.org/en/) and install the version for your operating system. `Website 1` has been updated to use node versions greater than 6.5.
 
 Install `npm` pacakges.
 
@@ -52,6 +52,6 @@ $ node server.js
 
 > Note: Type Ctrl-C to quit the server.
 
-Open the client web browser to url [http://localhost:3000](http://localhost:3000).
+Open the client web browser to url [http://localhost:8080](http://localhost:8080).
 
 ## [MIT Licensed](LICENSE)
