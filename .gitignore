@@ -21,6 +21,7 @@ Desktop.ini
 node_modules
 *.log
 *.gz
+!public/test.tar.gz
 
 # Coveralls
 coverage
